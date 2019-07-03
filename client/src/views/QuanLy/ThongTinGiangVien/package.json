@@ -1,0 +1,6 @@
+{
+  "name": "ThongTinGiangVien",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./ThongTinGiangVien.js"
+}
